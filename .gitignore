@@ -1,0 +1,6 @@
+# The Glassy Touch
+node_modules/
+.next/
+data/
+.env.local
+.DS_Store
